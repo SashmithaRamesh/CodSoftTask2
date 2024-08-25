@@ -1,0 +1,261 @@
+.frame2,
+.welcomeChild {
+  position: absolute;
+  width: 701px;
+}
+
+.frame2 {
+  top: 0;
+  left: calc(38% - 350px);
+  background-color: #faf8f8;
+  height: 1024px;
+  width: 60%;
+}
+.welcomeItem {
+  position: absolute;
+  top: 469px;
+  left: 368px;
+  background-color: #eeeaea;
+  width: 60%;
+  height: 349px;
+  margin-left: 1px;
+  margin-right: 3px;
+}
+.unsubscribeBrowser {
+  position: absolute;
+  top: 750px;
+  margin-left: 630px;
+  margin-top: 1px;
+}/*
+.subscribeBrowser{
+  position: absolute;
+  top: 800px;
+  left: calc(50% - 86px);
+  font-size: var(--font-size-smi);
+}*/
+.welcomeInner {
+  position: absolute;
+  top: 0;
+  left: 368px;
+  background-color: #f4d5fc;
+  width: 60%;
+  height: 266px;
+}
+.image2Icon {
+  position: absolute;
+  top: 63px;
+  left: calc(50% - 105.5px);
+  width: 211px;
+  height: 173px;
+  object-fit: cover;
+}
+.hiWelcome {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 89.5px);
+  display: inline-block;
+  white-space: pre-wrap;
+  width: 179px;
+  height: 24px;
+}
+.letsMakeGreat {
+  top: 42px;
+  left: calc(50% - 130.5px);
+  font-size: var(--font-size-smi);
+  display: flex;
+  color: var(--color-mediumpurple-100);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 261px;
+  height: 20px;
+}
+.buttonIcon,
+.g1,
+.letsMakeGreat {
+  position: absolute;
+}
+.g1 {
+  top: 21px;
+  left: calc(50% - 130px);
+  width: 261px;
+  height: 236px;
+  text-align: left;
+  font-size: 28px;
+  color: #8e49a1;
+}
+.buttonIcon {
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  width: 287px;
+  height: 49px;
+}
+.goToYour {
+  position: absolute;
+  top: 14px;
+  left: 20px;
+  font-weight: 500;
+  display: inline-block;
+  width: 247px;
+  height: 19.3px;
+}
+.buttonParent,
+.goToAccount {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 287px;
+  margin-left: 115px;
+  height: 49px;
+}
+.goToAccount {
+  top: 358px;
+  left: 577px;
+  color: var(--color-white);
+}
+.loremIpsumDolor,
+.yourRegistrationIs {
+  position: absolute;
+  color: var(--color-black);
+}
+.yourRegistrationIs {
+  top: 284px;
+  left: calc(50% - 155px);
+  font-size: 19px;
+  font-weight: 500;
+  display: inline-block;
+  width: 311px;
+  height: 25px;
+}
+.loremIpsumDolor {
+  top: 414px;
+  left: calc(50% - 191px);
+  font-size: var(--font-size-3xs);
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 382px;
+  height: 49px;
+}
+.enjoy10Days {
+  position: absolute;
+  top: 327px;
+  left: calc(50% - 123px);
+  font-weight: 500;
+  display: inline-block;
+  width: 247px;
+  height: 13px;
+}
+.create {
+  top: 0;
+  left: 206px;
+  width: 39px;
+  height: 30px;
+}
+.aboutUs,
+.contact,
+.create {
+  position: absolute;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  padding-left: 210px;
+}
+.contact {
+  top: 0;
+  left: 328px;
+  width: 47px;
+  height: 30px;
+}
+.aboutUs {
+  top: 7px;
+  left: 263px;
+  width: 53px;
+}
+.logo {
+  top: 5px;
+  left: 0;
+  font-size: var(--font-size-mini);
+  font-weight: 800;
+  display: inline-block;
+  width: 44px;
+  height: 35px;
+  padding-left: 286px;
+}
+.header,
+.icons,
+.logo {
+  position: absolute;
+}
+.header {
+  top: 479px;
+  left: 533px;
+  width: 375px;
+  height: 40px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+}
+.icons {
+  top: 905px;
+  left: 630px;
+  width: 180.9px;
+  height: 33.9px;
+  object-fit: cover;
+  margin-left: 225px;
+}
+.loremIpsumDolor1 {
+  position: absolute;
+  top: 969px;
+  left: calc(50% - 310px);
+  font-size: var(--font-size-3xs);
+  font-weight: 300;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 619px;
+  height: 46px;
+}
+.thankYouFor {
+  position: absolute;
+  top: 848px;
+  left: calc(50% - 137px);
+  font-size: 21px;
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  width: 275px;
+  height: 26px;
+}
+.imgIcon {
+  position: absolute;
+  top: 519px;
+  left: calc(50% - 131px);
+  width: 262px;
+  height: 195px;
+  object-fit: cover;
+}
+.usingOurOnline {
+  position: absolute;
+  top: 734px;
+  left: calc(50% - 211px);
+  font-size: 14px;
+  display: inline-block;
+  font-weight: 300;
+  color: var(--color-black);
+  width: 422px;
+  height: 36px;
+}
+.welcome {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-mediumpurple-100);
+  font-family: var(--font-inter);
+}
